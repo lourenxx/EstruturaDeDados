@@ -53,7 +53,7 @@ Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um **pull
 ## 📫 **Contato**
 ✉️ Email: **guilhermepxl7@gmail.com**  
 🐙 GitHub: [github.com/lourenxx](https://github.com/lourenxx)  
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](www.linkedin.com/in/guilherme-pexirile)  
+🔗 LinkedIn: [www.linkedin.com/in/guilherme-pexirile](www.linkedin.com/in/guilherme-pexirile)  
 
 ---
 
