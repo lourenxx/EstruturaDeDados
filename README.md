@@ -57,4 +57,4 @@ Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um **pull
 
 ---
 
-🚀 **Bons estudos!** 🚀   
+🚀 **Bons estudos!** 🚀
