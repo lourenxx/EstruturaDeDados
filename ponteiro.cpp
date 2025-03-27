@@ -8,7 +8,8 @@ int* ponteiro = &numero; // ponteiro é um ponteiro para int
 
 std::cout << "Valor de numero: " << numero << std::endl;
 std::cout << "Endereco de numero: " << &numero << std::endl;
-// Desreferenciando o ponteiro10
+
+// Desreferenciando o ponteiro
 std::cout << "Valor do ponteiro: " << *ponteiro << std::endl;
 std::cout << "Endereco do ponteiro: " << ponteiro << std::endl;
 
